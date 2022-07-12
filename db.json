@@ -2,10 +2,10 @@
 "data" : {
 "enter" :
 {
-     "ads" : "apploving",
-     "BannerAdmob" :"ca-app-pub-9988521094839767/2903131757",
-     "IntersAdmob" :"ca-app-pub-9988521094839767/2816072663",
-     "NativeAdmob" :"ca-app-pub-9988521094839767/2832099124",
+     "ads" : "admob",
+     "BannerAdmob" :"ca-app-pub-9988521094839767/9681463955",
+     "IntersAdmob" :"ca-app-pub-9988521094839767/3116055608",
+     "NativeAdmob" :"ca-app-pub-9988521094839767/3667538189",
      
      
      "BannerApploving" :"a746d46925db1c1a",
